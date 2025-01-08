@@ -16,7 +16,7 @@
     - 외부 데이터(시간대별 승하차승객수)를 통해 출퇴근시간과 지하철 승하차총승객수 관계를 살펴보자
     
 - Presentation PDF<br />
-[📄 지하철이용승객분석_PDF](https://github.com/maeng99/AI-X_Beginner/blob/main/AI%2BX_beginner_01/%EC%A7%80%ED%95%98%EC%B2%A0%20%EC%9D%B4%EC%9A%A9%EC%8A%B9%EA%B0%9D%20EDA%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%B5%9C%EC%A2%85%EB%B3%B8.pdf)
+[📄 지하철이용승객분석_EDA_PDF](https://github.com/maeng99/AI-X_Beginner/blob/main/AI%2BX_beginner_01/%EC%A7%80%ED%95%98%EC%B2%A0%20%EC%9D%B4%EC%9A%A9%EC%8A%B9%EA%B0%9D%20EDA%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%B5%9C%EC%A2%85%EB%B3%B8.pdf)
 <img src="https://github.com/user-attachments/assets/186ee53d-8c8d-40e5-8402-629526318e1e" width="600px" />
 
 ---
